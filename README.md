@@ -1,13 +1,13 @@
 <!-- Logo -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c40e0e9a-7f85-4a8a-b235-c1add33c8a04" alt="logo" width="1000" />
+  <img src="https://github.com/Rajesh7789/Rajesh7789/blob/main/github_banner.jpg" alt="logo" width="1000" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Rajesh Kumar Dash</h1>
 <h3 align="center">Aspiring SDET | QA Automation Enthusiast | Lifelong Learner in Software Testing</h3>
 
 <!-- Right-aligned image -->
-<img align="right" alt="testing animation" width="200" src="https://github.com/user-attachments/assets/animated-testing-image.gif" />
+<img align="right" alt="testing animation" width="350" src="https://github.com/Rajesh7789/Rajesh7789/blob/main/GIF-image-1.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajesh7789&label=Profile%20views&color=0e75b6&style=flat" alt="rajesh7789" /> </p>
 
